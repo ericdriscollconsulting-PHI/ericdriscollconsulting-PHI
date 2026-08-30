@@ -1,16 +1,18 @@
-## Hi there 👋
+# Eric Driscoll
 
-<!--
-**ericdriscollconsulting-PHI/ericdriscollconsulting-PHI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**FinOps & AI Economics Architect | Economic Systems Builder**
 
-Here are some ideas to get you started:
+I design the telemetry, unit economics, decision tools, governance controls, and operating models that connect technology consumption to measurable business outcomes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My differentiator is that I can move from executive value questions to technical evidence and lightweight implementation without losing the governance or business context.
+
+## What I build
+
+- Telemetry and allocation models
+- Unit-economics and decision-support tools
+- Governance controls and operating models
+- Focused validators, simulations, and evidence-labeled prototypes
+
+My foundation is enterprise FinOps and TBM. I am extending those disciplines into AI economics and tokenomics: model and token consumption, cost attribution, quality, risk, and value realization.
+
+[Website](https://ericdriscollconsulting.com/) · [LinkedIn](https://www.linkedin.com/in/eric-driscoll/)

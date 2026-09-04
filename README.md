@@ -15,10 +15,10 @@ I build lightweight decision systems for cloud and AI economics—combining tech
 
 - S3 Transition Assurance
 - Business Mapping Impact Simulator
-- Persona-Based Report Architect
+- FinOps Report Architect
 - Rightsizing decision support
 - Task-to-Model Governance Catalog
 
-Projects are labeled by maturity and separate professional practice, prototypes, and research.
+Selected work includes prototypes and research; these are not presented as realized client results.
 
 [Portfolio](https://ericdriscollconsulting.com/work) · [Approach](https://ericdriscollconsulting.com/how-i-work) · [LinkedIn](https://www.linkedin.com/in/eric-driscoll/)

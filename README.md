@@ -1,16 +1,24 @@
-## Hi there 👋
+# Eric Driscoll
 
-<!--
-**ericdriscollconsulting-PHI/ericdriscollconsulting-PHI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### FinOps & AI Economics Architect · Decision Systems Builder
 
-Here are some ideas to get you started:
+I build lightweight decision systems for cloud and AI economics—combining technical evidence, unit economics, interfaces, integrations, governance, and operating models to support accountable action.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Evidence → Economics → Action → Systems
+
+- **Evidence:** Make the opportunity visible and decision-ready.
+- **Economics:** Test whether the value is material and defensible.
+- **Action:** Convert the decision into an owned, executable next step.
+- **Systems:** Build learning, governance, and sustained value into the operating model.
+
+## Selected work
+
+- S3 Transition Assurance
+- Business Mapping Impact Simulator
+- Persona-Based Report Architect
+- Rightsizing decision support
+- Task-to-Model Governance Catalog
+
+Projects are labeled by maturity and separate professional practice, prototypes, and research.
+
+[Portfolio](https://ericdriscollconsulting.com/work) · [Approach](https://ericdriscollconsulting.com/how-i-work) · [LinkedIn](https://www.linkedin.com/in/eric-driscoll/)
